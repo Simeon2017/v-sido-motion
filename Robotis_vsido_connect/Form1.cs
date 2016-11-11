@@ -435,6 +435,10 @@ namespace Robotis_vsido_connect
              }
          }
 
-    }
+		private void label18_Click(object sender, EventArgs e)
+		{
+
+		}
+	}
 
 }
